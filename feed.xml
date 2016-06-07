@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:90C258B9-2E47-43C7-A903-6C2075D73C90</id>
+ <title>Page list Atom feed</title>
+ <updated>2012-07-02T02:28:14-07:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:AFDF98BD-8496-46FF-A9D1-FEDC19764A2E</id>
+  <title>HOME</title>
+  <title xmlns="urn:iweb:">HOME</title>
+  <in-navbar xmlns="urn:iweb:">AFDF98BD-8496-46FF-A9D1-FEDC19764A2E</in-navbar>
+  <link rel="alternate" href="HOME.html"/>
+  <updated>2012-07-02T02:28:14.001-07:00</updated>
+  <content>HOME</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:0609514F-DEA5-4019-AF94-D5EB90495DB5</id>
+  <title>RESEARCH</title>
+  <title xmlns="urn:iweb:">RESEARCH</title>
+  <in-navbar xmlns="urn:iweb:">0609514F-DEA5-4019-AF94-D5EB90495DB5</in-navbar>
+  <link rel="alternate" href="RESEARCH.html"/>
+  <updated>2012-07-02T02:28:14.002-07:00</updated>
+  <content>RESEARCH</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:48465081-DA43-4295-A821-A026E609CCC7</id>
+  <title>TEACHING</title>
+  <title xmlns="urn:iweb:">TEACHING</title>
+  <in-navbar xmlns="urn:iweb:">48465081-DA43-4295-A821-A026E609CCC7</in-navbar>
+  <link rel="alternate" href="TEACHING.html"/>
+  <updated>2012-07-02T02:28:14.003-07:00</updated>
+  <content>TEACHING</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:B0581CF2-8775-4AE4-9D75-1CCE03B77FB8</id>
+  <title>PEOPLE</title>
+  <title xmlns="urn:iweb:">PEOPLE</title>
+  <in-navbar xmlns="urn:iweb:">B0581CF2-8775-4AE4-9D75-1CCE03B77FB8</in-navbar>
+  <link rel="alternate" href="PEOPLE.html"/>
+  <updated>2012-07-02T02:28:14.004-07:00</updated>
+  <content>PEOPLE</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:BEF04209-1B46-40C7-A945-3CF52576D76F</id>
+  <title>PUBLICATIONS</title>
+  <title xmlns="urn:iweb:">PUBLICATIONS</title>
+  <in-navbar xmlns="urn:iweb:">BEF04209-1B46-40C7-A945-3CF52576D76F</in-navbar>
+  <link rel="alternate" href="PUBLICATIONS.html"/>
+  <updated>2012-07-02T02:28:14.005-07:00</updated>
+  <content>PUBLICATIONS</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:C5E45580-5914-42C9-A4CE-5B7388C1FBA0</id>
+  <title>GALLERY</title>
+  <title xmlns="urn:iweb:">GALLERY</title>
+  <in-navbar xmlns="urn:iweb:">C5E45580-5914-42C9-A4CE-5B7388C1FBA0</in-navbar>
+  <link rel="alternate" href="GALLERY.html"/>
+  <updated>2012-07-02T02:28:14.006-07:00</updated>
+  <content>GALLERY</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:38B85AC4-CC26-41FF-84BC-9C3D033753BF</id>
+  <title>LINKS</title>
+  <title xmlns="urn:iweb:">LINKS</title>
+  <in-navbar xmlns="urn:iweb:">38B85AC4-CC26-41FF-84BC-9C3D033753BF</in-navbar>
+  <link rel="alternate" href="LINKS.html"/>
+  <updated>2012-07-02T02:28:14.007-07:00</updated>
+  <content>LINKS</content>
+ </entry>
+</feed>
